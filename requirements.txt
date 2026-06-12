@@ -1,0 +1,7 @@
+plotly
+nbformat
+pandas
+sympy
+seaborn
+matplotlib
+ipywidgets
